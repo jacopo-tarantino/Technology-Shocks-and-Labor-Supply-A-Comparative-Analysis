@@ -8,6 +8,6 @@ identify technology shocks and their impact
 
 
 ## Files
-> `project.py`: contains full project pdf, made for an university project.
+> `project.pdf`: contains full project pdf, made for an university project.
 > 
-> `code.py`: contains the code in MATLAB to run
+> `code.m`: contains the code in MATLAB to run
